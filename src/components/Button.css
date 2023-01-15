@@ -1,0 +1,10 @@
+.Button_theme{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: transparent;
+}
+.Button_theme:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
